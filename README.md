@@ -1,5 +1,5 @@
 # GCaMP-from-Flimage
-GCaMP Analysis from FLIMage Software (for Windows, not tested on Mac). Depends on the padcat function.
+GCaMP Analysis from FLIMage Software. Depends on the padcat function. Please use the latest version (V7), older version contain bug fixes and are only compatible with windows.
 
 # Summary:
 This code takes the csv output from the FLIMage software and calculates the dF/F of channel 1 using the mean of a time period specified by the user.
